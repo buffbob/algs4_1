@@ -27,3 +27,6 @@ hs_err_pid*
 # testing files
 *.txt
 *.png
+# course config
+.lift/*
+*.iml
